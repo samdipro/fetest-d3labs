@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
-import { useLocation, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { api } from "../api/api";
 import "./Readme.css";
 import { Center } from "@chakra-ui/react";
